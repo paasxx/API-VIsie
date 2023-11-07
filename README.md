@@ -1,6 +1,6 @@
 # API-VIsie
 
-"Um site usando REACT JS e API REST em Python, usando Flask, que forneceum sistema CRUD Create, Read, Update and Delete com banco de dados SQLite para controle de funcionários"
+"Um site usando REACT JS e API REST em Python, usando Flask, que fornece um sistema CRUD Create, Read, Update and Delete com banco de dados SQLite para controle de funcionários"
 
 
 ## Como Começar
@@ -14,9 +14,9 @@ Siga os passos abaixo para executar o projeto.
 
 ### Tecnologias
 
-1. React 🐳
-2. Python
-3. Flask
+1. React 
+2. Python 🐍
+3. Flask 🐍
 3. SQLite
 . Postman (Teste externo Endpoints)
 
