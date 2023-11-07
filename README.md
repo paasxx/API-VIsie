@@ -22,16 +22,6 @@ Siga os passos abaixo para executar o projeto.
 
 ### Instalação
 
-Para instalar as bibliotecas necessários do arquivo requirements.txt pode-se criar um ambiente virtual na raiz do projeto, dentro da pasta API-VIsie.
-
-```bash
-python3 -m venv venv
-```
-Para ativar o ambiente virtual:
-
-```bash
-source venv/bin/activate
-```
 
 1. Clone este repositório em sua máquina local:
 
@@ -45,7 +35,28 @@ git clone https://github.com/paasxx/API-VIsie.git
 cd API-VIsie
 ```
 
-3. Execute a API e depois o Front End:
+2.1 Para instalar as bibliotecas necessários do arquivo requirements.txt pode-se criar um ambiente virtual na raiz do projeto, dentro da pasta API-VIsie, o comando no (Mac OS) é.
+
+```bash
+python3 -m venv venv
+```
+2.2 Para ativar o ambiente virtual:
+
+```bash
+source venv/bin/activate
+```
+2.4 Instale o React Router Dom:
+
+```bash
+npm i react-router-dom --save
+```
+2.5 Instale o Axios:
+
+```bash
+npm install axios --save
+```
+
+3. Execute a API na riaz do projeto e depois o Front End:
 
 ```bash
 flask run
@@ -63,7 +74,6 @@ npm start
 
 
 ```
-
 
 A API estará acessível em `http://127.0.0.1:5000/`.
 
