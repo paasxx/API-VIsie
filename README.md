@@ -1,6 +1,6 @@
 # API-VIsie
 
-"Um site usando REACT JS e API REST em Python, usando Flask, que fornece um sistema CRUD Create, Read, Update and Delete com banco de dados SQLite para controle de funcionários"
+"Um site usando ReactJS e API REST em Python, usando Flask, que fornece um sistema CRUD (Create, Read, Update and Delete) com banco de dados SQLite para controle de funcionários"
 
 
 ## Como Começar
@@ -21,6 +21,17 @@ Siga os passos abaixo para executar o projeto.
 . Postman (Teste externo Endpoints)
 
 ### Instalação
+
+Para instalar as bibliotecas necessários do arquivo requirements.txt pode-se criar um ambiente virtual na raiz do projeto, dentro da pasta API-VIsie.
+
+```bash
+python3 -m venv venv
+```
+Para ativar o ambiente virtual:
+
+```bash
+source venv/bin/activate
+```
 
 1. Clone este repositório em sua máquina local:
 
