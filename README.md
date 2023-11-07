@@ -14,10 +14,10 @@ Siga os passos abaixo para executar o projeto.
 
 ### Tecnologias
 
-1. React 
-2. Python 🐍
-3. Flask 🐍
-3. SQLite
+1. React (Front End)
+2. Python 🐍 
+3. Flask 🐍 (Backend)
+3. SQLite (Banco de Dados)
 . Postman (Teste externo Endpoints)
 
 ### Instalação
