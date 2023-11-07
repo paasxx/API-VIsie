@@ -1,0 +1,4 @@
+Populate Database = https://www.geeksforgeeks.org/how-to-insert-dummy-data-into-databases-using-flask/
+Populate Database 2 = https://www.digitalocean.com/community/tutorials/how-to-use-flask-sqlalchemy-to-interact-with-databases-in-a-flask-application
+Flask Official DB guidelines = https://flask.palletsprojects.com/en/3.0.x/patterns/sqlalchemy/#
+

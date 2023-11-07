@@ -1,0 +1,16 @@
+flask shell 
+>>> from app import db, Users,UserHelper
+>>> from data import seed_data 
+>>> db.create_all()          
+>>> UserHelper.add_seed_data(seed_data)
+
+
+POST update user
+
+{
+    "name": "Pedro André Aguiar da Silveira",
+    "rg": "14496928",
+    "cpf": "01587181606",
+    "data_nascimento": "1992-01-31",
+    "data_admissao": "2019-04-08"
+}
