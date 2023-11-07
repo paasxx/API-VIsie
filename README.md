@@ -60,11 +60,11 @@ A API estará acessível em `http://127.0.0.1:5000/`.
 
 | Método   | Endpoint                    | Descrição                                      |
 |----------|-----------------------------|------------------------------------------------|
-| GET      | /                           | Hello World                                |
-| GET      | /listusers                  | Lista de Todos os usuários           |
-| DELETE   | /userdelete/<id>            | Deleta o usuário     |
+| GET      | /                           | Hello World                                    |
+| GET      | /listusers                  | Lista de Todos os usuários                     |
+| DELETE   | /userdelete/<id>            | Deleta o usuário                               |
 | GET      | /userdetails/<id>           | Recupera informações detalhadas de um usuário  |
-| PUT      | /userupdate/<id>            | Atualiza os dados do usuário                        |
+| PUT      | /userupdate/<id>            | Atualiza os dados do usuário                   |
 | POST     | /useradd                    | Adiciona um novo usuário ao banco de dados     |
 
 
